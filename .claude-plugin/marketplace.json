@@ -1,0 +1,6 @@
+{
+  "name": "panel-sebas-foss",
+  "description": "Panel de gasto y contexto para Claude Code (sevas-panel).",
+  "owner": { "name": "Sevas" },
+  "plugins": [{ "name": "sevas-panel", "source": "./" }]
+}

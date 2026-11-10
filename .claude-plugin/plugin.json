@@ -1,0 +1,9 @@
+{
+  "name": "sevas-panel",
+  "version": "0.5.0",
+  "description": "Banda con modelo, esfuerzo, contexto y coste; avisos de contexto y de modelo; panel de gasto por día y por sesión. No gasta tokens.",
+  "author": { "name": "Sevas" },
+  "license": "MIT",
+  "repository": "https://github.com/sevas2001/panel-sebas-foss",
+  "types": "./types/index.d.ts"
+}
